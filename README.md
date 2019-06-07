@@ -10,3 +10,5 @@ The field was mapped with Spitzer's IRAC and MIPS instruments at 3.6, 4.5, 5.8, 
 These data were combined with 2MASS J, H, Ks over the full field and UKIDSS J, H, Ks over half the field from l ~ 102-105.
 
 YSOs were identified using CCD and CMD selections, and clusters/associations were identified using DBSCAN and minimum spanning tree methods.  
+
+ms.pdf is the manuscript submitted to the arXiv.
